@@ -1,6 +1,6 @@
 ---
 title: "Ma page de recommandations"
-order: 0
+order: 1
 in_menu: true
 ---
 ### Mes applis préférées 
