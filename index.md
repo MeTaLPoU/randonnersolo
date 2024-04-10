@@ -33,3 +33,18 @@ in_menu: true
       </div>
     </div>
   </article> 
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/uBlock%20Origin.png">
+    </div>
+    <div>
+      <h2>uBlock Origin</h2>
+      <p>Une extension vous laissant le choix de bloquer, ou non, les publicités des sites web que vous rencontrez.</p>
+      <div>
+        <a href="https://framalibre.org/notices/ublock-origin.html">Vers la notice Framalibre</a>
+        <a href="https://github.com/gorhill/uBlock">Vers le site</a>
+      </div>
+    </div>
+  </article> 
